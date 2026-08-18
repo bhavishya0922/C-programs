@@ -2,7 +2,7 @@
  * Problem : Hello World
  * Topic   : Basics
  * Language: C++
- * Author  : Aryansh Sharma
+ * Author  : Bhavishya Dewangan
  */
 
 #include <iostream>
